@@ -14,10 +14,10 @@ OWNER_ID = int(getenv("5887336213"))
 MONGO_URL = getenv("mongodb://ud7kcz6totsvepy86bb2:d4gmTfoBbpzDmNLzItwG@n1-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017,n2-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017/b0ojwj6pcvvj30u?replicaSet=rs0")
 BOT_TOKEN = getenv("BOT_TOKEN", "5944740729:AAE9OJC5aNMFdgc_gm70GaNNHeBOMbJC7rs")
 ALIVE_PIC = getenv("https://te.legra.ph/file/e8048f405cdccc7ac8e86.jpg")
-ALIVE_TEXT = getenv("ALIVE_TEXT")
+ALIVE_TEXT = getenv("hello(sir/miss) how can i help u?")
 PM_LOGGER = getenv("PM_LOGGER")
 LOG_GROUP = getenv("LOG_GROUP")
-GIT_TOKEN = getenv("GIT_TOKEN") #personal access token
+GIT_TOKEN = getenv("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") #personal access token
 REPO_URL = getenv("REPO_URL", "https://github.com/ITZ-ZAID/ZAID-USERBOT")
 BRANCH = getenv("BRANCH", "master") #don't change
  

@@ -6,28 +6,28 @@
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
-            "description": "fill with the telethon session string from https://replit.com/@Itz-zaid/Generator",
+            "description": "AQBiMZkAqzo6T-Dd2gWeKXnR8ugELVPdiZ1CNFPFwjBhEjLVXTn34h1nFdGTWFGL1oU6Jpa_pk9Ms3hL_qG6AGpVyu2QWwPKym8ixMPH1BI3pNfdcRg6gVvDpjIomnKMS9UaWMaI9uQA-XzN3ihFGAdhQS2oiJrpUEyjtXMxMT3Brd9Fu4Ho5dIv_I9PqIVvD4RiP-kDtSg1zKt_Ia_Qn3Q-72e0sVpSnogkTp01tOOTZyMYCOsK_86SnMJYKUT5ThwiXdUk7SlBhhLKBvaFi65MTwQLC4b7LMj-h0R0WKZSwdoS_rRqtHn4DmiVNeB9l8mMR11euN2wGkVHP4Lxroj-yy_H1QAAAAFe6Z8VAA",
             "required": true
         },
         "MONGO_URL": {
             "description": "Fill there an mongo database from mongodb.com",
             "required": true,
-            "value": ""
+            "value": "mongodb://ud7kcz6totsvepy86bb2:d4gmTfoBbpzDmNLzItwG@n1-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017,n2-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017/b0ojwj6pcvvj30u?replicaSet=rs0"
         },
         "SUDO_USERS": {
             "description": "Fill there your I'd go to @Zaid2_Robot pm and type /id",
             "required": true,
-            "value": "TheUpdatesChannel"
+            "value": "5887336213"
         },
         "OWNER_ID": {
             "description": "Fill there your I'd go to @Zaid2_Robot pm and type /id",
             "required": true,
-            "value": "1234567890"
+            "value": "5887336213"
         },
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
             "required": true,
-            "value": ""
+            "value": "5944740729:AAE9OJC5aNMFdgc_gm70GaNNHeBOMbJC7rs"
         }
 
     }
